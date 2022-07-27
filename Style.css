@@ -1,5 +1,5 @@
 body {
-  Background-image: url('https://c.wallhere.com/photos/c8/1f/anime_anime_girls_sky_clouds_screaming-1877115.jpg!d');
+  Background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20200630/ourmid/pngtree-fresh-green-theme-e-commerce-banner-image_342734.jpg');
    background-repeat: repeat;
    background-size: cover;
     font-family: 'Kanit', sans-serif;
@@ -54,5 +54,16 @@ body {
 
       .Topmenu {
         height: 40;
+      }
+      .Topmenu ul{
+        list-style: disc;
+        margin: auto;
+        display: flex;
+        justify-content: left;
+
+      }
+      .Topmenu ui{
+        float: right;
+        padding: 10px 40px;
       }
 Footer
